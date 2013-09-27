@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/file-load.png</file>
+        <file>icons/file-new.png</file>
+        <file>icons/file-save.png</file>
+        <file>icons/view-layer-manager.png</file>
+        <file>icons/view-zoomin.png</file>
+        <file>icons/view-zoomout.png</file>
+    </qresource>
+</RCC>
